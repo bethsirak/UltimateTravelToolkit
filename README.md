@@ -76,7 +76,7 @@ Contributions to the Adventure Awaits Travel Website are welcome! If you find an
 
 ## License
 
-The Adventure Awaits Travel Website is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+N/A
 
 ---
 
