@@ -14,7 +14,7 @@ Welcome to the Adventure Awaits Travel Website! This is a simple and elegant web
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
+- [Quick Access](#Quick-Access)
 
 ## Introduction
 
@@ -74,9 +74,9 @@ To run the website locally, follow these steps:
 
 Contributions to the Adventure Awaits Travel Website are welcome! If you find any bugs, have suggestions for improvements, or want to add new features, please submit a pull request.
 
-## License
+## Quick Access
 
-N/A
+[Quick Access](https://63bcad91e8461411a9a6c6b2--velvety-queijadas-26e588.netlify.app/)
 
 ---
 
